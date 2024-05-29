@@ -51,33 +51,33 @@ Retrieve the OCR text results from the selected image.
 
 Update the parameters configuration json if your application is hosted on a different server or uses different environmental settings.
 
-### Step 5: Support :sos:
+### Step 4: Support :sos:
 
 For assistance, feel free to open an issue or contact [author](https://github.com/jairzinhosantos).
 
 ## :white_check_mark: Tests Conducted
 The following tests were carried out to verify text extraction from invoice image.
 
-1. `Test 01`
+1. `Test Invoice Lorito`
 <p align='center' alt='image | invoice_lorito'>
-    <img src='assets/invoice_lorito.webp' alt='image | invoice_lorito' width='800px'/></a>
-    <sub>Figure 1. Invoice Lorito image.</sub><br>
+    <img src='assets/invoice_lorito.webp' alt='image | invoice_lorito' width='800px'/></a><br>
+    <sub>Figure 1. Invoice Lorito Image.</sub><br>
 </p>
 <p align='center' alt='image | ocr_response_invoice_lorito'>
     <img src='assets/ocr_response_invoice_lorito.png' alt='image | ocr_response_invoice_lorito' width='800px'/></a><br>
     <sub>Figure 2. OCR Model response.</sub>
 </p>
 
-1. `Test 02`
+2. `Test Invoice Tabacalera`
 <p align='center' alt='image | invoice_tabacalera'>
-    <img src='assets/invoice_tabacalera.jpg' alt='image | invoice_tabacalera' width='800px'/></a>
-    <sub>Figure 1. Invoice image.</sub><br>
-</p>
+    <img src='assets/invoice_tabacalera.jpg' alt='image | invoice_tabacalera' width='800px'/></a><br>
+    <sub>Figure 1. Invoice Tabacalera Image.</sub><br>
+</p><br>
 <p align='center' alt='image | ocr_response_invoice_tabacalera'>
-    <img src='assets/ocr_response_invoice_lorito.png' alt='image | ocr_response_invoice_tabacalera' width='800px'/></a><br>
+    <img src='assets/ocr_response_invoice_tabacalera.png' alt='image | ocr_response_invoice_tabacalera' width='800px'/></a><br>
     <sub>Figure 2. OCR Model response.</sub>
 </p>
 
-![image](https://github.com/jairzinhosantos/ocr-model/assets/78168305/8cb91969-7260-43cc-b96b-b92e087b1ac4)
+
 
 <!-- ## :checkered_flag: Conclusion --> 
