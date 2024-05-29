@@ -9,7 +9,7 @@
   - [Step 3: Update the Configuration](#step-3-update-the-configuration-arrows_counterclockwise)<br>
   - [Step 4: Support](#step-4-support-sos)<br>
 - [Tests Conducted](#white_check_mark-tests-conducted)<br>
-- [Conclusion](#checkered_flag-conclusion)<br>
+<!-- - [Conclusion](#checkered_flag-conclusion)<br> --> 
 
 
 # OCR Model Testing :robot::hammer_and_wrench:
@@ -69,4 +69,4 @@ The following tests were carried out to verify text extraction from invoice imag
 </p>
 
 
-## :checkered_flag: Conclusion
+<!-- ## :checkered_flag: Conclusion --> 
