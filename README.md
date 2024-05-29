@@ -31,8 +31,6 @@ Below is a breakdown of the key components included in this repository:
 
 - [**`requirements.txt`**](requirements.txt): Python dependencies.
 
-- [**`.gitignore`**](.gitignore): Specifies intentionally untracked files to ignore.
-
 - [**`README.md`**](README.md): Detailed description of the project.
 
 - [**`LICENSE`**](LICENSE): MIT License information.
