@@ -68,7 +68,4 @@ The following tests were carried out to verify text extraction from invoice imag
     <sub>Figure 2. OCR Model response.</sub>
 </p>
 
-![image](https://github.com/jairzinhosantos/ocr-model/assets/78168305/747fd23e-9822-4e1e-ad83-e41a78ebaf0c)
-
-
 <!-- ## :checkered_flag: Conclusion --> 
