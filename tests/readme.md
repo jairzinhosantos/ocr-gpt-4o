@@ -58,15 +58,17 @@ For assistance, feel free to open an issue or contact [author](https://github.co
 ## :white_check_mark: Tests Conducted
 The following tests were carried out to verify text extraction from invoice image.
 
-1. `Invoice Image`
+1. `Test 01`
 <p align='center' alt='image | invoice_lorito'>
     <img src='assets/invoice_lorito.webp' alt='image | invoice_lorito' width='1000px'/></a>
-    <sub>Figure 1</sub><br>
+    <sub>Figure 1. Invoice image.</sub><br>
 </p>
 <p align='center' alt='image | ocr_response_invoice_lorito'>
     <img src='assets/ocr_response_invoice_lorito.png' alt='image | ocr_response_invoice_lorito' width='600px'/></a><br>
-    <sub>Figure 2</sub>
+    <sub>Figure 2. OCR Model response.</sub>
 </p>
+
+![image](https://github.com/jairzinhosantos/ocr-model/assets/78168305/747fd23e-9822-4e1e-ad83-e41a78ebaf0c)
 
 
 <!-- ## :checkered_flag: Conclusion --> 
