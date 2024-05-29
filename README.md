@@ -24,7 +24,6 @@ Below is a breakdown of the key components included in this repository:
   - [`app.py`](src/app.py): Flask application endpoints for image upload and OCR processing.
   - [`ocr_model.py`](src/rag_model.py): OCR Model's functionality and methods.
   - [`.env`](src/.env): Environment file for setting the OpenAI API key.
-  - [`.gitignore`](src/.gitignore): Lists files to be ignored by Git.
 
 - [**`config/`**](config/): Configuration files.
   - [`parameters.json`](config/parameters.json): Configuration settings for OCR Model.
