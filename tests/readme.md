@@ -61,21 +61,21 @@ The following tests were carried out to verify text extraction from invoice imag
 1. `Test Invoice Lorito`
 <p align='center' alt='image | invoice_lorito'>
     <img src='assets/invoice_lorito.webp' alt='image | invoice_lorito' width='800px'/></a><br>
-    <sub>Figure 1. Invoice Lorito Image.</sub><br>
+    <sub>Figure 1.1. Invoice Lorito Image.</sub><br>
 </p>
 <p align='center' alt='image | ocr_response_invoice_lorito'>
     <img src='assets/ocr_response_invoice_lorito.png' alt='image | ocr_response_invoice_lorito' width='800px'/></a><br>
-    <sub>Figure 2. OCR Model response.</sub>
+    <sub>Figure 2.1. OCR Model response.</sub>
 </p>
 
 2. `Test Invoice Tabacalera`
 <p align='center' alt='image | invoice_tabacalera'>
     <img src='assets/invoice_tabacalera.jpg' alt='image | invoice_tabacalera' width='800px'/></a><br>
-    <sub>Figure 1. Invoice Tabacalera Image.</sub><br>
-</p><br>
+    <sub>Figure 2.1. Invoice Tabacalera Image.</sub><br>
+</p>
 <p align='center' alt='image | ocr_response_invoice_tabacalera'>
     <img src='assets/ocr_response_invoice_tabacalera.png' alt='image | ocr_response_invoice_tabacalera' width='800px'/></a><br>
-    <sub>Figure 2. OCR Model response.</sub>
+    <sub>Figure 2.2. OCR Model response.</sub>
 </p>
 
 
