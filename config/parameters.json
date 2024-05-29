@@ -1,0 +1,13 @@
+{
+    "_comment": "This file contains all the configuration parameters required by the OCR-GPT-4o project. It includes paths and settings required for the OCR-GPT-4o operations",
+    "host": "localhost",
+    "port": 8080,
+    "llm_model": "gpt-4o",
+    "max_tokens": 500,
+    "instruction": "provide JSON file that represents this document. Use this JSON Schema: ",
+    "key_saveimage": "saveimage",
+    "key_saveresponse": "saveresponse",
+    "schema_path": "config/invoice_schema.json",
+    "input_path": "input/",
+    "output_path": "output/"
+}
