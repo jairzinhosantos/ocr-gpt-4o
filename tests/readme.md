@@ -53,7 +53,7 @@ Update the parameters configuration json if your application is hosted on a diff
 
 ### Step 4: Support :sos:
 
-For assistance, feel free to open an issue or contact [author](https://github.com/jairzinhosantos).
+For assistance, feel free to open an issue or contact [me](https://github.com/jairzinhosantos).
 
 ## :white_check_mark: Tests Conducted
 The following tests were carried out to verify text extraction from invoice image.
