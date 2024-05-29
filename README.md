@@ -72,6 +72,6 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-## :books: References
+### :books: References
 [^1]: [GPT4o_Vision](https://github.com/AI-Unleashed/GPT4o_Vision)
 
