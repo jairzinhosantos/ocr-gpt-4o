@@ -8,7 +8,7 @@
 
 # OCR Model :robot:
 
-**`Recently, OpenAI launched the GPT-4o model, claimed to be the most powerful model to date. This project explores its OCR capabilities within a simple OCR Model.`**
+**`GPT-4o model is claimed to be the most powerful model to date. This project explores its OCR capabilities within a simple OCR Model.`**
 
 ## :mag: Overview
 This project develops a OCR Model utilizing the latest and most powerful GPT-4o model from OpenAI. The model processes images and extracts text using OCR capabilities, integrating these functionalities into a application built with Flask. The application can be run locally.[^1]
