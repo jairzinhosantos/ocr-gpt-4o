@@ -45,7 +45,7 @@ Select an image that the OCR Model will process to extract text:
 
 Retrieve the OCR text results from the selected image.
 
-- **`Run the POST request`**
+- **`Execute the POST request to retrieve OCR response.`**
 
 ### Step 3: Update the Configuration :arrows_counterclockwise:
 
