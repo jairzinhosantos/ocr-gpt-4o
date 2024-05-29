@@ -60,12 +60,24 @@ The following tests were carried out to verify text extraction from invoice imag
 
 1. `Test 01`
 <p align='center' alt='image | invoice_lorito'>
-    <img src='assets/invoice_lorito.webp' alt='image | invoice_lorito' width='1000px'/></a>
-    <sub>Figure 1. Invoice image.</sub><br>
+    <img src='assets/invoice_lorito.webp' alt='image | invoice_lorito' width='800px'/></a>
+    <sub>Figure 1. Invoice Lorito image.</sub><br>
 </p>
 <p align='center' alt='image | ocr_response_invoice_lorito'>
-    <img src='assets/ocr_response_invoice_lorito.png' alt='image | ocr_response_invoice_lorito' width='600px'/></a><br>
+    <img src='assets/ocr_response_invoice_lorito.png' alt='image | ocr_response_invoice_lorito' width='800px'/></a><br>
     <sub>Figure 2. OCR Model response.</sub>
 </p>
+
+1. `Test 02`
+<p align='center' alt='image | invoice_tabacalera'>
+    <img src='assets/invoice_tabacalera.jpg' alt='image | invoice_tabacalera' width='800px'/></a>
+    <sub>Figure 1. Invoice image.</sub><br>
+</p>
+<p align='center' alt='image | ocr_response_invoice_tabacalera'>
+    <img src='assets/ocr_response_invoice_lorito.png' alt='image | ocr_response_invoice_tabacalera' width='800px'/></a><br>
+    <sub>Figure 2. OCR Model response.</sub>
+</p>
+
+![image](https://github.com/jairzinhosantos/ocr-model/assets/78168305/8cb91969-7260-43cc-b96b-b92e087b1ac4)
 
 <!-- ## :checkered_flag: Conclusion --> 
